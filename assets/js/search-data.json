@@ -1,0 +1,615 @@
+{"0": {
+    "doc": "About",
+    "title": "Key Members",
+    "content": "Meet the Team! . | Prohurtz - Initiator / Moderator / Lead Developer . | Summer - Machine Learning Engineer / Data Scientist / Developer . | lorow - Software Developer / Developer . | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/about/#key-members",
+    "relUrl": "/about/#key-members"
+  },"1": {
+    "doc": "About",
+    "title": "Contributors",
+    "content": "Individuals . | DaOfficialWizard - Lead Documentation Manager . | qdot - Created the initial version of the GUI App . | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/about/#contributors",
+    "relUrl": "/about/#contributors"
+  },"2": {
+    "doc": "About",
+    "title": "Philosophy",
+    "content": "The How to Build section of this website includes some of our teams own notes (not all of them are polished) that we disclose for other people to use. There, we hope you may find something useful to you. We advocate the Open Source model. This is why we strive to make our work open to other people for consultation, replication and reuse. Credits . | ESPHome - Thank you to ESPHome for developing the ESP Web Tools library, which we use to flash the ESP in the browser. | SlimeVR - Thank you to the SlimeVR Team for their design inspirations as we began building out the documentation. | Autodrop3D - Thank you to AutoDrop3D for his amazing SerialTerminal Github repo, which we used as inspiration for our own serial terminal interface. | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/about/#philosophy",
+    "relUrl": "/about/#philosophy"
+  },"3": {
+    "doc": "About",
+    "title": "About",
+    "content": "EyeTrackVR developers are a group of people who are passionate about the field of augmented and virtual reality. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/about/",
+    "relUrl": "/about/"
+  },"4": {
+    "doc": "How to build",
+    "title": "How to build",
+    "content": "So, you want eyetracking in vr, but don’t want to buy it😷? . Well, you’ve come to the right place then‼ . The following section of documentation will walk you through exactly how to build your very own eyetracking rig. This, could be your eye. Who knows .... ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/how_to_build",
+    "relUrl": "/how_to_build"
+  },"5": {
+    "doc": "Web-Forum",
+    "title": "Web-Forum",
+    "content": "Comments . Load Comments . Load Older Comments There are currently no comments on this article, be the first to add one below . Add a Comment . Note that we may remove comments for any reason, so try to be civil. If you are looking for a response to your comment, either leave your email address or check back on this page periodically. | . | | Post | . This site is protected by reCAPTCHA and the Google Privacy Policy and Terms of Service apply. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/_pages/Comments/",
+    "relUrl": "/_pages/Comments/"
+  },"6": {
+    "doc": "Configuring firmware",
+    "title": "Configuring firmware",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/configure-firmware/",
+    "relUrl": "/configure-firmware/"
+  },"7": {
+    "doc": "Socials",
+    "title": "Contact Us",
+    "content": "Please join our Discord for updates and any questions. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/contact/#contact-us",
+    "relUrl": "/contact/#contact-us"
+  },"8": {
+    "doc": "Socials",
+    "title": "Socials",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/contact/",
+    "relUrl": "/contact/"
+  },"9": {
+    "doc": "Development Roadmap",
+    "title": "EyeTrackVR Development Roadmap",
+    "content": "This will contain a list of features that are in progress, completed, and planned. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/dev-roadmap/#eyetrackvr-development-roadmap",
+    "relUrl": "/dev-roadmap/#eyetrackvr-development-roadmap"
+  },"10": {
+    "doc": "Development Roadmap",
+    "title": "Completed",
+    "content": ". | Tracking algorithm | Calibration | GUI | PCB Design for IR emitters | Dual eye support | Firmware | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/dev-roadmap/#completed",
+    "relUrl": "/dev-roadmap/#completed"
+  },"11": {
+    "doc": "Development Roadmap",
+    "title": "In Progress",
+    "content": ". | Variable eye openness tracking | Release of V1 to the masses | Better documentation over things (setup, wiring etc.) | Auto ROI cropping | Auto threshold’s | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/dev-roadmap/#in-progress",
+    "relUrl": "/dev-roadmap/#in-progress"
+  },"12": {
+    "doc": "Development Roadmap",
+    "title": "Planned",
+    "content": ". | Support for implementation with VRCFT (binary parameters etc.) | Setup WiFi credentials for ESPs through non-firmware means | Setup flashing of ESPs through anything other than VSC | Dynamic foveated rendering via OpenXR (not a guarantee) | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/dev-roadmap/#planned",
+    "relUrl": "/dev-roadmap/#planned"
+  },"13": {
+    "doc": "Development Roadmap",
+    "title": "Development Roadmap",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/dev-roadmap/",
+    "relUrl": "/dev-roadmap/"
+  },"14": {
+    "doc": "FAQ",
+    "title": "\n                    What is the goal of this project?\n                ",
+    "content": "To provide an open source, affordable VR eyetracker for VR Chat and more. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"15": {
+    "doc": "FAQ",
+    "title": "\n                    What headsets will be supported?\n                ",
+    "content": "Any headset that the hardware can fit in with community mounts or a mount you design. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"16": {
+    "doc": "FAQ",
+    "title": "\n                    How will this work?\n                ",
+    "content": "Currently, a camera is mounted inside the headset for each eye. The camera streams through wifi to a PC client which processes and sends eye tracking data to VR Chat. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"17": {
+    "doc": "FAQ",
+    "title": "\n                    What features will be supported?\n                ",
+    "content": "The goal is eye tracking with eye openness, and some form of pupil dilation. A far away aspiration of this project is some form of weak foveated rendering because it's cool and any small performance increase in VR is welcome. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"18": {
+    "doc": "FAQ",
+    "title": "\n                    When will this be completed?\n                ",
+    "content": "When it's done 😉 I have a semi busy life so development may slow and speed up inconsistently. I have a goal to be done with all base features in June. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"19": {
+    "doc": "FAQ",
+    "title": "\n                    Will IR damage my eyes?\n                ",
+    "content": "This project has safety in mind. If you do all of the safety measures that we put into place and visually test the amount of IR light you will be fine. Please note we have not finished development of all safety stuff so be careful, here is a pdf with safety information . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"20": {
+    "doc": "FAQ",
+    "title": "\n                    How expensive will this be?\n                ",
+    "content": "My goal is to keep it as cheap as possible with around $75 as the absolute max, with current projections being around $25-40 . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"21": {
+    "doc": "FAQ",
+    "title": "\n                    How do I set up my avatar?\n                ",
+    "content": "Check out the VR Chat face tracking wiki on our github. Keep in mind that we currently only support float parameters. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"22": {
+    "doc": "FAQ",
+    "title": "\n                    What hardware does this use?/How do I build?\n                ",
+    "content": "Testing is still being done to validate our current hardware choice, no hardware has been fully confirmed therefore I cannot recommend you buy parts and assemble one yourself unless you are good with losing money and are going to be actively contributing to the project. This stands true still as of 5/3. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"23": {
+    "doc": "FAQ",
+    "title": "\n                    Where's the docs?\n                ",
+    "content": "All of our documentation is located on this website, all future documentation will be found here as well. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"24": {
+    "doc": "FAQ",
+    "title": "FAQ",
+    "content": ". ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/faq/",
+    "relUrl": "/faq/"
+  },"25": {
+    "doc": "Firmware Guide",
+    "title": "What is this?",
+    "content": "Firmware is the second part of the equation to get your trackers going. It lives on the ESP32 chip, and is responsible for streaming video data from the tracker. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware/#what-is-this",
+    "relUrl": "/setting-up-firmware/#what-is-this"
+  },"26": {
+    "doc": "Firmware Guide",
+    "title": "What should I download and where?",
+    "content": "Current testing has been with loucass003's firmware found here. It’s tried and working although it’s a bit more complicated to setup and does not fully fulfil our needs. Download and install this one, for now. We’re working on our own solution called OpenIris, found here. So far we have: . Working right now . | Basic stream in 60FPS at 248x248px in MJPEG in greyscale | A basic HTTP server with API, which allows for better control of the stream and the camera settings | Health checks - we know when something goes wrong and we can react to it | OTA updates - we can update the firmware on the fly | ROI selection for eye area - this feature hasn’t been tested all that much yet. | MDNS - so that the server itself will detect and communicate with the tracker without you doing anything. | . In development are . | Persistent storage for storing your settings on the device itself, this will also allow for saving multiple wifi networks! | LED status patterns - so that you know what’s going on without plugging the tracker in to the PC | FEC encoding with packet injection for even faster streams! | Better OTA so that updates can be downloaded from github and pushed by the server to the tracker | CI/CD with github actions - so we can more seamlessly update the trackers | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware/#what-should-i-download-and-where",
+    "relUrl": "/setting-up-firmware/#what-should-i-download-and-where"
+  },"27": {
+    "doc": "Firmware Guide",
+    "title": "How do download this?",
+    "content": "Follow the steps described here . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware/#how-do-download-this",
+    "relUrl": "/setting-up-firmware/#how-do-download-this"
+  },"28": {
+    "doc": "Firmware Guide",
+    "title": "Firmware Guide",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware/",
+    "relUrl": "/setting-up-firmware/"
+  },"29": {
+    "doc": "Full Build Guide",
+    "title": "This page will contain a step-by-step assembly guide.",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#this-page-will-contain-a-step-by-step-assembly-guide",
+    "relUrl": "/full-build-guide/#this-page-will-contain-a-step-by-step-assembly-guide"
+  },"30": {
+    "doc": "Full Build Guide",
+    "title": "Step 1: Read the Things to know before you start guide.",
+    "content": "This will give you a basic overview of the project’s status and what to expect currently. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-1-read-the-things-to-know-before-you-start-guide",
+    "relUrl": "/full-build-guide/#step-1-read-the-things-to-know-before-you-start-guide"
+  },"31": {
+    "doc": "Full Build Guide",
+    "title": "Step 2: Please read the Differences between wired and wireless setups guide.",
+    "content": "This will help you decide if wireless or wired is better. Don’t want to read it? Go with wireless, USB issues make it complicated to do wired setups. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-2-please-read-the-differences-between-wired-and-wireless-setups-guide",
+    "relUrl": "/full-build-guide/#step-2-please-read-the-differences-between-wired-and-wireless-setups-guide"
+  },"32": {
+    "doc": "Full Build Guide",
+    "title": "Step 3: Order all the parts listed on our Parts list",
+    "content": "Please take note of the fact that hardware still may change, although with more developments it seems like we are going to stick with current hardware. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-3-order-all-the-parts-listed-on-our-parts-list",
+    "relUrl": "/full-build-guide/#step-3-order-all-the-parts-listed-on-our-parts-list"
+  },"33": {
+    "doc": "Full Build Guide",
+    "title": "Step 4: Wait for things to arrive.",
+    "content": "Long shipping times from China are f u n. Please allow from 3 weeks to 2 months for everything to arrive. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-4-wait-for-things-to-arrive",
+    "relUrl": "/full-build-guide/#step-4-wait-for-things-to-arrive"
+  },"34": {
+    "doc": "Full Build Guide",
+    "title": "Step 5: Gather up all of your hardware.",
+    "content": "Make sure you have the following: . | 2 ESP 32 CAM boards | 2 160 degree cameras | 1 USB board to power your ESPs | 1 Programmer board | IR emitters, resistors, and preferably PCBs | Lower gauge wire to power ESPs (I use spare 24 AWG speaker wire) | Higher gauge wire to power IR LEDs | 3d printer to print mounts. | Glue of some form, hot glue highly recommended. | . ESPs, cams, a programmer and a USB connector ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-5-gather-up-all-of-your-hardware",
+    "relUrl": "/full-build-guide/#step-5-gather-up-all-of-your-hardware"
+  },"35": {
+    "doc": "Full Build Guide",
+    "title": "Step 6: Attach cameras to ESPs.",
+    "content": "Look at your ESP and locate the camera ribbon cable connector as circled below. Flip the gray part up to allow the cameras to be connected. Do not force it, or shove objects into it to open, fingernails are fine. Now slide in a camera, please note that the pins are facing down, you should only see the black part. Once the camera has been slid in, press the gray part of the connector back down. There will be a small amount of force but still be gentle. Note the ammount of black coming out of the connector. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-6-attach-cameras-to-esps",
+    "relUrl": "/full-build-guide/#step-6-attach-cameras-to-esps"
+  },"36": {
+    "doc": "Full Build Guide",
+    "title": "Step 7: Connect ESP to the programmer to flash.",
+    "content": "Why flash before you have it assembled? It’s simple, to make sure they actually work before you spend time soldering to them. Slide your ESP into the programmer, and note the USB port goes away from the ESP’s camera. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-7-connect-esp-to-the-programmer-to-flash",
+    "relUrl": "/full-build-guide/#step-7-connect-esp-to-the-programmer-to-flash"
+  },"37": {
+    "doc": "Full Build Guide",
+    "title": "Step 8: Configure Visual Studio Code and prepare to flash the firmware.",
+    "content": "Check out our guide on Setting up VS Code . Once VS Code is set up, move on to the next step. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-8-configure-visual-studio-code-and-prepare-to-flash-the-firmware",
+    "relUrl": "/full-build-guide/#step-8-configure-visual-studio-code-and-prepare-to-flash-the-firmware"
+  },"38": {
+    "doc": "Full Build Guide",
+    "title": "Step 9: Plug in your ESP and flash the firmware.",
+    "content": "Our guide, Building and uploading the firmware manually has steps on how to do this. After it has flashed, make sure you get a video stream in your browser, then power it down and flash your next ESP. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-9-plug-in-your-esp-and-flash-the-firmware",
+    "relUrl": "/full-build-guide/#step-9-plug-in-your-esp-and-flash-the-firmware"
+  },"39": {
+    "doc": "Full Build Guide",
+    "title": "Step 10: Connect your power wires to a USB Type-A board.",
+    "content": "Get two pairs of wire, preferably two different colors, Cut them to length (56mm in my case) and twist together two for ground and two for 5V. Here I used speaker wire where the copper denotes positive and silver negative. Then, strip the wires to about 3mm of exposed wire. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-10-connect-your-power-wires-to-a-usb-type-a-board",
+    "relUrl": "/full-build-guide/#step-10-connect-your-power-wires-to-a-usb-type-a-board"
+  },"40": {
+    "doc": "Full Build Guide",
+    "title": "Step 11: Cut wires for IR LEDs.",
+    "content": "To find the optimal length, take a piece of wire and a marker and mock up your wire route, and mark the wire, cut it, then make another at the same size for the other eye. You will need 3 different cuts of wire. 2 short ones for connecting the 2 PCBs per eye together, 2 Longer ones for power, or ground and 2 slightly longer ones for power or ground for the LED near the camera at the bottom. Once cut, strip them to around 4mm of exposed wire. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-11-cut-wires-for-ir-leds",
+    "relUrl": "/full-build-guide/#step-11-cut-wires-for-ir-leds"
+  },"41": {
+    "doc": "Full Build Guide",
+    "title": "Step 12: Twist the positive USB wire and positive IR LED wires together and tin them.",
+    "content": "Once twisted together add solder to keep them together. This makes the connection much easier. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-12-twist-the-positive-usb-wire-and-positive-ir-led-wires-together-and-tin-them",
+    "relUrl": "/full-build-guide/#step-12-twist-the-positive-usb-wire-and-positive-ir-led-wires-together-and-tin-them"
+  },"42": {
+    "doc": "Full Build Guide",
+    "title": "Step 13: Solder the positive wire to ESP.",
+    "content": "Lay the wire on the outside of the 5V pin and apply solder. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-13-solder-the-positive-wire-to-esp",
+    "relUrl": "/full-build-guide/#step-13-solder-the-positive-wire-to-esp"
+  },"43": {
+    "doc": "Full Build Guide",
+    "title": "Step 14: Solder the negative wire to ESP",
+    "content": "Repeat step 12 but with the negative wires. Now the hard part, attaching it without shorting it with nearby pins. In the below example I put it on the top of the pin, It will be a week-ish joint but that’s where glue comes in handy. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-14-solder-the-negative-wire-to-esp",
+    "relUrl": "/full-build-guide/#step-14-solder-the-negative-wire-to-esp"
+  },"44": {
+    "doc": "Full Build Guide",
+    "title": "Step 15: Wire up the 2nd ESP.",
+    "content": "Repeat steps 12-14 with the 2nd ESP. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-15-wire-up-the-2nd-esp",
+    "relUrl": "/full-build-guide/#step-15-wire-up-the-2nd-esp"
+  },"45": {
+    "doc": "Full Build Guide",
+    "title": "Step 16: Prepare to solder IR LED PCBs.",
+    "content": "Get your magnifying glass out, it’s time to solder very smol things. Gather 4 PCBs, 4 IR LEDs, and either 4 ~350ohm, or 2 ~700ohm resistors. 357ohm resistors and V3 PCBs . 698ohm resistors and V2 PCBs . Here are the PCB pin-out labels: . V2 . V3 . LED labels: . The green markings and notched corners mark the positive sides of the LEDs pictured above. If you have different LEDs, please consult their datasheet. Some terminology related to them: . 5V: 5-volt power in. GND: Ground or power out. AR: After-Resistor this is to be used as the power in on the 2nd PCB in series as resistors are not needed on the 2nd PCB since they are on the 1st one. SNG: Single resistor, use this as 5V in if you are using only 1 ~700ohm resistor on V3 boards (not recommended). Negative: This marks the negative side of the LED. Positive: This marks the positive side of the LED. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#step-16-prepare-to-solder-ir-led-pcbs",
+    "relUrl": "/full-build-guide/#step-16-prepare-to-solder-ir-led-pcbs"
+  },"46": {
+    "doc": "Full Build Guide",
+    "title": "Solder resistors on PCB V2.",
+    "content": "You only need 1 PCB to have a resistor per eye. Tin the resistor pads. Hold the resistor in place. Solder one end. Flip to the ther side of the resistor and solder it. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#solder-resistors-on-pcb-v2",
+    "relUrl": "/full-build-guide/#solder-resistors-on-pcb-v2"
+  },"47": {
+    "doc": "Full Build Guide",
+    "title": "Solder LEDs on PCB V2.",
+    "content": "Tin the pads . Place the resistor on the pads in the correct orientation. Solder each side of the resistor. Be careful not to solder at too high of a temp, recommended soldering temp is 230C with a max of 245C. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#solder-leds-on-pcb-v2",
+    "relUrl": "/full-build-guide/#solder-leds-on-pcb-v2"
+  },"48": {
+    "doc": "Full Build Guide",
+    "title": "Wire up the PCBs V2.",
+    "content": "Basic full wiring diagram of IR PCBs V2 . The PCB that receives the 5V power is the one with the resistor. The second one, which gets its power from the ground pin of the first, does not have a resistor on it and its power input pin is the AR pin (After-Resistor). The 2nd PCBs ground pin goes to the ground of the system, in the diagram it is the ESPs ground pin. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#wire-up-the-pcbs-v2",
+    "relUrl": "/full-build-guide/#wire-up-the-pcbs-v2"
+  },"49": {
+    "doc": "Full Build Guide",
+    "title": "Solder resistors on PCB V3.",
+    "content": "You only need 1 PCB to have resistors per eye. Tin the resistor pads. Note: in this example, I use too much solder, it should only be enough to lightly cover the pad. Next, grab a resistor and hold it on the pads. While holding the resistor add solder to your soldering iron and apply it to the resistor. I like to do this by having a piece of my solder stick up in the air and then put it on my iron that way. Flip the PCB and solder the other end. Now repeat for the other one. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#solder-resistors-on-pcb-v3",
+    "relUrl": "/full-build-guide/#solder-resistors-on-pcb-v3"
+  },"50": {
+    "doc": "Full Build Guide",
+    "title": "Solder LEDs on PCB V3.",
+    "content": "Tin the LED pads. Orientate the LED and hold in place. Solder one end. Flip areound and solder the other end. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#solder-leds-on-pcb-v3",
+    "relUrl": "/full-build-guide/#solder-leds-on-pcb-v3"
+  },"51": {
+    "doc": "Full Build Guide",
+    "title": "Wire up the PCBs V3.",
+    "content": "The PCB that receives the 5V power is the one with the resistor. The second one, which gets its power from the ground pin of the first, does not have a resistor on it and its power input pin is the AR pin (After-Resistor). The 2nd PCBs ground pin goes to the ground of the system, in the diagram it is the ESPs ground pin. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/#wire-up-the-pcbs-v3",
+    "relUrl": "/full-build-guide/#wire-up-the-pcbs-v3"
+  },"52": {
+    "doc": "Full Build Guide",
+    "title": "Full Build Guide",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/full-build-guide/",
+    "relUrl": "/full-build-guide/"
+  },"53": {
+    "doc": "Part List",
+    "title": "This page will include a basic part list for building an EyeTrackVR setup",
+    "content": ". Warning: Please note that no hardware has been fully set in stone, all purchases are at your loss if hardware changes . Note: It is recommended to source parts from AliExpress as it is much cheaper . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#this-page-will-include-a-basic-part-list-for-building-an-eyetrackvr-setup",
+    "relUrl": "/partslist/#this-page-will-include-a-basic-part-list-for-building-an-eyetrackvr-setup"
+  },"54": {
+    "doc": "Part List",
+    "title": "Wireless setup",
+    "content": ". | 2x ESP-CAM-32 modules AliExpress here . | 2x ov2640 160° fov IR / Night vers 75mm (850nm) AliExpress here . | 1x ESP-CAM programmer/ MB AliExpress here . | . All three of the above can be found in a kit from AliExpress here make sure to get 2 of the 75mm-160- 850nm version. Here is an amazon link for 3 esps and programmers without the proper cameras here . | 1x USB type-A male port to power both ESPs AliExpress here . | 1x Lower gauge wire to power ESPs 28 gauge wire from AliExpress here . | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#wireless-setup",
+    "relUrl": "/partslist/#wireless-setup"
+  },"55": {
+    "doc": "Part List",
+    "title": "Wired setup",
+    "content": ". Warning: Due to USB issues, only 1 camera per headset is supported unless you have 2 seperate USB ports to plug in to. USB hubs WILL NOT WORK. | 2x Wired Ov5640 160 deg cameras AliExpress here | . Note: if the wired option is used, you will need to disassemble the camera to remove the ir filters. I would recommend getting extra cameras, either the full thing above or just the camera from AliExpress here . | 1x USB type-A male port to power both IR emitters AliExpress here | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#wired-setup",
+    "relUrl": "/partslist/#wired-setup"
+  },"56": {
+    "doc": "Part List",
+    "title": "IR Emitters",
+    "content": "Needed for both wireless and wired options. | 4x Unfocused SMD IR emitters Recomended ones from LCSC here. Alternative ones from Digikey here. The difference between them is the ones from LCSC are rated for lower power, this means in the event of a short or misshap they should be safer, hence why they are recomended. | . Note: The smaller ones can not be soldered at temps above 245C or they will burn. Low temp solder is recomended . Warning: (DO NOT BUY FOCUSED ONES! If they look like something you would find in a TV remote do not use them, if you aren't exactly sure what you are doing, buy them from the LCSC or Digikey link) . | 4x IR emitter PCB’s (highly recommended) . | 2x 698-710ohm resistors or the more recommend way, 4x 350ohm 1206 SMD resistors for IR emitters (If you are not using PCB’s for the emitters then buying regular through-hole resistors is acceptable) . | 357 ohm from Digikey here . | . or . | 698 ohm from LCSC here . | 1x Wire to power IR emitters 32 gauge wire from AliExpress here . | . I have a kit with resistors, IR LEDs, and PCBs on Tindie here. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#ir-emitters",
+    "relUrl": "/partslist/#ir-emitters"
+  },"57": {
+    "doc": "Part List",
+    "title": "Other parts",
+    "content": ". | 1x Hot glue or another form of glue . | 1x Soldering iron and solder (lead free solder highly recommended) . | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#other-parts",
+    "relUrl": "/partslist/#other-parts"
+  },"58": {
+    "doc": "Part List",
+    "title": "3d Printed Parts",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/#3d-printed-parts",
+    "relUrl": "/partslist/#3d-printed-parts"
+  },"59": {
+    "doc": "Part List",
+    "title": "3d Printed Parts For Supported Headsets",
+    "content": ". ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/",
+    "relUrl": "/partslist/"
+  },"60": {
+    "doc": "Part List",
+    "title": "\n                    Quest 2\n                ",
+    "content": ". Camera and IR emitter mount by Prohurtz . Camera and IR emitter mount by Arkfall . ESP mount by Arkfall . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/",
+    "relUrl": "/partslist/"
+  },"61": {
+    "doc": "Part List",
+    "title": "\n                    Valve Index\n                ",
+    "content": ". Camera and IR emitter mount by Qdot . Camera mount by Razgriz . | ESP mount : N/A | . Other Headsets . If you own another headset not listed above, that means there are no mounts designed for them yet. If you have basic skills in modeling or think up a solution to mount cams and emitters, please try to make a mount and then let us in the discord know so it can be added here. Any headset that can fit the camera is potentially compatible. If you are willing, give it a shot to design a mount for the rest of the community. Tip: If you have a headset that is not listed above, please let us know in the discord so it can be added here . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/",
+    "relUrl": "/partslist/"
+  },"62": {
+    "doc": "Part List",
+    "title": "Part List",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/partslist/",
+    "relUrl": "/partslist/"
+  },"63": {
+    "doc": "Privacy Policy",
+    "title": "Privacy Policy",
+    "content": "The privacy of my visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/",
+    "relUrl": "/privacy/"
+  },"64": {
+    "doc": "Privacy Policy",
+    "title": "Designation of the responsible authority",
+    "content": "The persons responsible for data processing on this website are: . RedHawk989 &amp; ZanzyTHEbar . The responsible body(s) decides alone or jointly with others on the purposes and means of processing personal data (e.g. names, contact details, etc.). ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/#designation-of-the-responsible-authority",
+    "relUrl": "/privacy/#designation-of-the-responsible-authority"
+  },"65": {
+    "doc": "Privacy Policy",
+    "title": "Log Files",
+    "content": "Like many other websites, this site uses log files to help learn about when, from where, and how often traffic flows to this site. The information in these log files include: . | Internet Protocol addresses (IP) | Types of browser | Internet Service Provider (ISP) | Date and time stamp | Referring and exit pages | Number of clicks | . All of this information is not linked to anything that is personally identifiable. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/#log-files",
+    "relUrl": "/privacy/#log-files"
+  },"66": {
+    "doc": "Privacy Policy",
+    "title": "Cookies and Web Beacons",
+    "content": "I use cookies on this site to store limited information about how you interact with the site. In line with EU legislation, I have identified several different types of cookies: . | Strictly necessary cookies. | I set a cookie to store your acceptance of my cookie policy. This expires after 31 days. | . | Preferences cookies to remember your preferences. These are not used on this website. | Statistics cookies that allow me to see how my audience uses the website. I use: . | Google Analytics | . | Marketing cookies to help advertisers deliver relevant content are not used on this website. | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/#cookies-and-web-beacons",
+    "relUrl": "/privacy/#cookies-and-web-beacons"
+  },"67": {
+    "doc": "Privacy Policy",
+    "title": "Google Analytics",
+    "content": "Google Analytics is a web analytics tool I use to help understand how visitors engage with this website. It reports website trends using cookies and web beacons without identifying individual visitors. Individual IP addresses are anonymized. You can read Google Analytics Privacy Policy. Objection to data collection . You can prevent the collection of your data by Google Analytics by clicking on the following link https://tools.google.com/dlpage/gaoptout. An opt-out cookie is set to prevent the collection of your information on future visits to our site: Disable Google Analytics. Details on how Google Analytics handles user data can be found in the Google privacy policy: https://support.google.com/analytics/answer/6004245. Demographic characteristics at Google Analytics . This website uses the function “demographic characteristics” of Google Analytics. It can be used to generate reports that contain information about the age, gender and interests of visitors to the site. This data comes from interest-based advertising by Google as well as from visitor data from third parties. It is not possible to assign the data to a specific person. You can deactivate this function at any time. You can do this through the ad settings in your Google Account or by generally prohibiting the collection of your data by Google Analytics, as explained in the section “Opting out of data collection”. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/#google-analytics",
+    "relUrl": "/privacy/#google-analytics"
+  },"68": {
+    "doc": "Privacy Policy",
+    "title": "Google Web Fonts",
+    "content": "This website uses Web Fonts from Google. The provider is Google Inc, 1600 Amphitheater Parkway, Mountain View, CA 94043, USA. The use of Google Fonts allows me to present this website using my choice of fonts, regardless of the fonts that are installed locally. This is done by retrieving the Google Web Fonts from a Google server in the USA and the associated transfer of your data to Google. This data is your IP address and which page you have visited on this website. The use of Google Web Fonts is based on Art. 6 para. 1 lit. f DSGVO. As the operator of this website, I have a legitimate interest in the optimal display and transmission of my web presence. The company Google is certified for the US-European data protection convention “Privacy Shield”. This data protection agreement is intended to ensure compliance with the level of data protection applicable in the EU. Details about Google Web Fonts can be found here: https://www.google.com/fonts#AboutPlace:about and further information in the Google Privacy Policy: https://policies.google.com/privacy/partners. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/privacy/#google-web-fonts",
+    "relUrl": "/privacy/#google-web-fonts"
+  },"69": {
+    "doc": "EyeTrackVR",
+    "title": "Table of contents",
+    "content": ". | Hardware | About IR Emitter Safety | Firmware | Headset support . | Licenses | . | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#table-of-contents",
+    "relUrl": "/index.html#table-of-contents"
+  },"70": {
+    "doc": "EyeTrackVR",
+    "title": "EyeTrackVR",
+    "content": "Open source and affordable VR eye tracker platform for VRChat via OSC and UDP protocol. This project is in development and is not fully finished . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#eyetrackvr",
+    "relUrl": "/index.html#eyetrackvr"
+  },"71": {
+    "doc": "EyeTrackVR",
+    "title": "Hardware",
+    "content": "3d files for mounting brackets will be found here IR emitter files will also be located there. Hardware will hopefully be a ESP32-Cam with a 160fov ir camera. This is not confirmed and very likely could change. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#hardware",
+    "relUrl": "/index.html#hardware"
+  },"72": {
+    "doc": "EyeTrackVR",
+    "title": "About IR Emitter Safety",
+    "content": "Please exercise extreme caution when messing around with IR emitters. Once safety testing has been completed links and files will be provided for the emitters. Please do not try to make, or use any emitters unless you know exactly what you are doing as it could be very harmful for your eyes if not done correctly. When files and resources are released DO NOT BYPASS (OR NOT DO) ANY SAFETY FEATURES PUT IN PLACE. This can result in irreversible bodily harm. The safety measures were put in place to REDUCE the potential failure risk. All further safety responsibilities is on the user. This includes visually checking with an IR camera that the brightness is correct. Warning: Make sure you are using NON-focused emitters and at around 5ma total power. Effect of infrared radiation on the lens . Training-library Nir Stds . AN002_Details on photobiological safety of LED light sources . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#about-ir-emitter-safety",
+    "relUrl": "/index.html#about-ir-emitter-safety"
+  },"73": {
+    "doc": "EyeTrackVR",
+    "title": "Firmware",
+    "content": "Current testing has been with loucass003's firmware found here. There has been work for a different firmware by a community member but that has not been tested by me here. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#firmware",
+    "relUrl": "/index.html#firmware"
+  },"74": {
+    "doc": "EyeTrackVR",
+    "title": "Headset support",
+    "content": "Initial support will be Quest 2 (pcvr). Support for other headsets, comes from the community. Licenses . All software is under the MIT license. All hardware materials and designs provided here are licensed under the CERN-OHL-P hardware license. All software is under the MIT License. All documentation, including the Wiki, is under the Creative Commons CC-BY-SA-4.0 license. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html#headset-support",
+    "relUrl": "/index.html#headset-support"
+  },"75": {
+    "doc": "EyeTrackVR",
+    "title": "EyeTrackVR",
+    "content": ". ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/index.html",
+    "relUrl": "/index.html"
+  },"76": {
+    "doc": "Setup Visual Studio Code environment",
+    "title": "Setting up the environment",
+    "content": "This procedure will show how to prepare your system for uploading the firmware to your tracker. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware-enviroment/#setting-up-the-environment",
+    "relUrl": "/setting-up-firmware-enviroment/#setting-up-the-environment"
+  },"77": {
+    "doc": "Setup Visual Studio Code environment",
+    "title": "1. Install Visual Studio Code",
+    "content": "Download the latest Visual Studio Code and install it. Download . Install . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware-enviroment/#1-install-visual-studio-code",
+    "relUrl": "/setting-up-firmware-enviroment/#1-install-visual-studio-code"
+  },"78": {
+    "doc": "Setup Visual Studio Code environment",
+    "title": "2. Install PlatformIO IDE",
+    "content": "Once Visual Studio Code is installed, open it and install PlatformIO IDE for VSCode, an extension that will allow you to connect to the tracker, build and upload the firmware. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware-enviroment/#2-install-platformio-ide",
+    "relUrl": "/setting-up-firmware-enviroment/#2-install-platformio-ide"
+  },"79": {
+    "doc": "Setup Visual Studio Code environment",
+    "title": "3. Clone the firmware project",
+    "content": "Make sure you close any current projects you have open or open a new window before moving forward with these steps. | Go to https://github.com/lorow/OpenIris and download the code. | Open the firmware in VS Code by going to PlatformIO, selecting open, then navigating to OpenIris ESP folder and opening it. | . This is a direct adaptation from SlimeVR. Credit goes to the SlimeVR team adapted from here . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware-enviroment/#3-clone-the-firmware-project",
+    "relUrl": "/setting-up-firmware-enviroment/#3-clone-the-firmware-project"
+  },"80": {
+    "doc": "Setup Visual Studio Code environment",
+    "title": "Setup Visual Studio Code environment",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/setting-up-firmware-enviroment/",
+    "relUrl": "/setting-up-firmware-enviroment/"
+  },"81": {
+    "doc": "Software Guide",
+    "title": "How to install, run and adjust the EyeTrackVR app.",
+    "content": "Step 1: Download the EyeTrackVR app. Go to the latest GitHub release here and download the release .zip . Step 2: Run the .exe . yeah just run it. thats all the docs for now. bye . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/software-guide/#how-to-install-run-and-adjust-the-eyetrackvr-app",
+    "relUrl": "/software-guide/#how-to-install-run-and-adjust-the-eyetrackvr-app"
+  },"82": {
+    "doc": "Software Guide",
+    "title": "Software Guide",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/software-guide/",
+    "relUrl": "/software-guide/"
+  },"83": {
+    "doc": "Community Outreach",
+    "title": "",
+    "content": ". Coming Soon . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/suggestions.html",
+    "relUrl": "/suggestions.html"
+  },"84": {
+    "doc": "Community Outreach",
+    "title": "Community Outreach",
+    "content": "| ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/suggestions.html",
+    "relUrl": "/suggestions.html"
+  },"85": {
+    "doc": "Things to know before you start",
+    "title": "This page will be an overview of things to know and understand before you start this project.",
+    "content": "Hardware is not final. Our hardware may change at any time, make sure you are okay with having to buy more parts. Software is not final. There are bound to be function-breaking errors and bugs that have not been figured out. Firmware is not complete. Our firmware has not been 100% completed and tested widely, expect issues. IR emitters are dangerous. If handled wrong or precautions are ignored you can and will cause damage to your eyes. Please make sure to only buy linked ones or ones with specs that match exactly. We will not be responsible for damaged caused if you go your own route. Documentation is not complete. Do not expect a clear build guide. You will need to set up your avatar to use this. This will require some basic Unity knowledge and owning your own avatar. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/things-to-know#this-page-will-be-an-overview-of-things-to-know-and-understand-before-you-start-this-project",
+    "relUrl": "/things-to-know#this-page-will-be-an-overview-of-things-to-know-and-understand-before-you-start-this-project"
+  },"86": {
+    "doc": "Things to know before you start",
+    "title": "Things to know before you start",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/things-to-know",
+    "relUrl": "/things-to-know"
+  },"87": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "Building and uploading the firmware manually",
+    "content": "Uploading your firmware must initially be done over cable. Once you have the tracker connected to your WiFi after your first firmware update, you can opt to use OTA in the future. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/",
+    "relUrl": "/building-and-flashing-firmware-manually/"
+  },"88": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "1. Connect your tracker to your PC",
+    "content": "First, connect your esp32cam to your programmer. In case of the esp32-cam-mb board, it’s as simple as sticking it into the socket the way it came in the package and then connecting it your PC with an micro-usb cable. In case of an FTDI programmer, the steps aren’t as easy, so grab this guide for how to set it up. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/#1-connect-your-tracker-to-your-pc",
+    "relUrl": "/building-and-flashing-firmware-manually/#1-connect-your-tracker-to-your-pc"
+  },"89": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "2. Build your firmware",
+    "content": ". | Press the build button at the bottom of Visual Studio Code. | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/#2-build-your-firmware",
+    "relUrl": "/building-and-flashing-firmware-manually/#2-build-your-firmware"
+  },"90": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "3. Upload your firmware",
+    "content": ". | If you are using the OTA method, first make sure the tracker you wish to flash is turned on. | Once the firmware has been built, press the upload button to upload the firmware. | . Note: The MB board does the resetting for you, so if you're using the FTDI programmer, follow the guide linked above (the one from randomnerdtutorials) . | If the upload is successful, you should get an output that looks like this: . | . Congratulations! You have now successfully uploaded the firmware to your EyeTrackVR Tracker! . If you have trouble with uploading your firmware over cable check the following: . | Make sure your USB cable from the tracker is plugged firmly into your PC. | Make sure that your USB cable is a data and charging cable (it is suggested you try other cables or devices with the cable). | Make sure that your drivers are up-to-date. | Some ports might not work, try other ones. | . Additionally, this can be caused by software hogging COM ports (VSCode and Cura can be the cause of this). ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/#3-upload-your-firmware",
+    "relUrl": "/building-and-flashing-firmware-manually/#3-upload-your-firmware"
+  },"91": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "Uploading via OTA",
+    "content": "Once you have successfully connected your trackers to your WiFi, you can use OTA to handle all future firmware updates. | Retrieve the IP of the tracker you wish to flash. The IP can be found through network monitoring applications, or by viewing tracker output in a serial monitor. | In platformio.ini file uncomment the following lines in Visual Studio Code by removing the ;: | . ;upload_protocol = espota ;upload_port = 192.168.1.49 . | Change the value of upload_port to the IP address retrieved during the first step. | Turn the tracker you wish to flash off and then on again. | Wait around 5 seconds. | Press the upload button to upload the firmware. | Repeat for as many trackers as you need. | . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/#uploading-via-ota",
+    "relUrl": "/building-and-flashing-firmware-manually/#uploading-via-ota"
+  },"92": {
+    "doc": "Building and uploading the firmware manually",
+    "title": "Troubleshooting",
+    "content": "If you encountered an issue while following these steps check the FAQ. If you don’t find an answer to your question there ask in #questions channel in the discord, we will be happy to help. Adapted from the SlimeVR docs, Credit goes to the SlimeVR team here . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/building-and-flashing-firmware-manually/#troubleshooting",
+    "relUrl": "/building-and-flashing-firmware-manually/#troubleshooting"
+  },"93": {
+    "doc": "VR Chat Avatar Setup",
+    "title": "How to set up your avatar for eye tracking:",
+    "content": "Currently, the best resource is the VRC Face Tracking GitHub and Discord. I hope to have a good video available from a community member that shows and explains the process eventually. Note: We currently only support float parameters, please adjust your setup accordingly . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/vrc-avatar-setup/#how-to-set-up-your-avatar-for-eye-tracking",
+    "relUrl": "/vrc-avatar-setup/#how-to-set-up-your-avatar-for-eye-tracking"
+  },"94": {
+    "doc": "VR Chat Avatar Setup",
+    "title": "VR Chat Avatar Setup",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/vrc-avatar-setup/",
+    "relUrl": "/vrc-avatar-setup/"
+  },"95": {
+    "doc": "Differences Between Wired and Wireless setups",
+    "title": "This page will compare the differences between a wireless setup verses a wired one.",
+    "content": ". Note: Things may change so this is only true with the current hardware as of 6/20/22. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/Wired-VS-Wireless-Setups/#this-page-will-compare-the-differences-between-a-wireless-setup-verses-a-wired-one",
+    "relUrl": "/Wired-VS-Wireless-Setups/#this-page-will-compare-the-differences-between-a-wireless-setup-verses-a-wired-one"
+  },"96": {
+    "doc": "Differences Between Wired and Wireless setups",
+    "title": "Wired:",
+    "content": "Pros: . | Plug and play, no firmware or wifi router needed . | Lowest latency . | . Note: Our latency with wireless setups is pretty low, (20-35ms) you will not be able to see a difference in social VR applications. This would only become a noticable change if we ever get DFR working. | Higher resolution | . Note: Higher resolution does not result in a measurable tracking quality change although it can help. Cons: . | More expensive at around twice the cost of wireless . | Requires 2 usb ports and usb bandwith, wireless uses 1 port for only power. | Camera disassembly is required to remove the IR filter . | USB bus issues . | . Warning: Due to USB issues, only 1 camera per headset is supported unless you have 2 seperate USB ports to plug in to. USB hubs WILL NOT WORK. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/Wired-VS-Wireless-Setups/#wired",
+    "relUrl": "/Wired-VS-Wireless-Setups/#wired"
+  },"97": {
+    "doc": "Differences Between Wired and Wireless setups",
+    "title": "Wireless",
+    "content": "Pros: . | Cheapest . | Wireless . | Only requires 1 usb for power . | Cameras do not need to be disassembled (for 160 fov) . | . Cons: . | Requires a WiFi network on 2.4GHz . | Flashing firmware is needed . | Higer latency . | . Note: Our latency with wireless setups is pretty low, (20-35ms) you will not be able to see a difference in social VR applications. This would only become a noticable change if we ever get DFR working. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/Wired-VS-Wireless-Setups/#wireless",
+    "relUrl": "/Wired-VS-Wireless-Setups/#wireless"
+  },"98": {
+    "doc": "Differences Between Wired and Wireless setups",
+    "title": "Differences Between Wired and Wireless setups",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/Wired-VS-Wireless-Setups/",
+    "relUrl": "/Wired-VS-Wireless-Setups/"
+  },"99": {
+    "doc": "Wiring Guide",
+    "title": "V2 Setup",
+    "content": "Basic Full Wiring Diagram With IR PCBs V2 . Tip: Tinning your wires before connecting them is a good idea . IR PCB V2 Emitter Back Side Wiring for 2 350ohm Resistors . Warning: The 2 350ohm resistors should connect the each side of the resistor pad and NOTHING ELSE. Its important that it does not touch any other pad. . Note: Alternatively you can wire it like the 1 resistor one, but add a secondary one in the 5v in wire. IR PCB Emitter Back Side Wiring for 1 700-710 ohm Resistor . Soldering demostration of soldering a IR LED to V2 PCB https://www.youtube.com/watch?v=8vWMr4L9WK . Warning: Do not solder the 1206 sized LEDs at temperatures exceeding 245°C as they will burn and become unusable. Buying low temp solder is highly recommended. ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/wireguide#v2-setup",
+    "relUrl": "/wireguide#v2-setup"
+  },"100": {
+    "doc": "Wiring Guide",
+    "title": "V3 Setup",
+    "content": "Basic Full Wiring Diagram With IR PCBs V3 . Tip: Tinning your wires before connecting them is a good idea . IR PCB V3 Emitter Back Side Wiring for 2 Resistors (recommended) . ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/wireguide#v3-setup",
+    "relUrl": "/wireguide#v3-setup"
+  },"101": {
+    "doc": "Wiring Guide",
+    "title": "Wiring Guide",
+    "content": " ",
+    "url": "https://redhawk989.github.io/EyeTrackVR/wireguide",
+    "relUrl": "/wireguide"
+  }
+}
+
